@@ -1,0 +1,15 @@
+﻿body {
+  background-color: black;
+}
+h1 {
+  color: white; 
+  background-color: red;
+}
+p {
+  olor: white;
+  background-color: blue;
+}
+ol {
+  color: white; 
+  background-color: #ee82ee;
+}
